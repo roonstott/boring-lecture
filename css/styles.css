@@ -1,0 +1,23 @@
+p.quote {
+  with: 50%;
+  font-style: bold;
+  font-family: cursive;
+  font-weight: 200;
+  font-size: 15px; 
+  line-height: normal;
+} 
+h1.top {
+  font-weight: 700;
+  font-style: normal;
+  font-family: georgia;
+  text-align: center;
+}
+
+p.analysis {
+  with: 85%;
+  font-style: normal;
+  font-family: georgia;
+  font-weight: 100;
+  font-size: 16px; 
+  line-height: normal;
+}
